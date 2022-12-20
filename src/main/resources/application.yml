@@ -9,5 +9,16 @@ spring:
     active:
     #    - mysql
     #    - postgre-sql
-    - spring-data-query
-#    - spring-data-projection
+    #    - spring-data-query
+    #    - spring-data-projection
+  #  mail:
+  #    host: smtp.gmail.com
+  #    port: 587
+  #    username: tlcn092022@gmail.com
+  #    password: TLcn.092022
+  #    properties:
+  #      mail:
+  #        smtp:
+  #          auth: true
+  #      starttls:
+  #        enable: true
