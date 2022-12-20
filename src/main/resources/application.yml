@@ -1,0 +1,13 @@
+#@Value
+encode:
+  typeA: typeA
+  typeB: typeB
+#@ConfigurationPropertie
+#@Profile config
+spring:
+  profiles:
+    active:
+    #    - mysql
+    #    - postgre-sql
+    - spring-data-query
+#    - spring-data-projection

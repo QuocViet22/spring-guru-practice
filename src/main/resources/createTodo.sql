@@ -1,0 +1,2 @@
+INSERT INTO todo (title, detail) VALUES ('Todo-1', 'Khi bạn chuẩn bị tạo tài liệu mapping trong Hibernate, bạn phải ánh xạ các kiểu dữ liệu Java vào các kiểu dữ liệu RDBMS. Các kiểu khai báo và sử dụng trong các file mapping không phải là các kiểu dữ liệu Java; Chúng cũng không phải là các kiểu cơ sở dữ liệu SQL');
+INSERT INTO todo (title, detail) VALUES ('Todo-2', 'Walking');
